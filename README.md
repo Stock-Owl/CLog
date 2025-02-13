@@ -19,7 +19,7 @@
  - Custom formatting
  - Printf style formatting for log messages
  - Logging to an arbitrary file descriptor
- - C99 Compatable
+ - C99 Compatible
  - Logging file info
  - Timestamps
  - Assertions
